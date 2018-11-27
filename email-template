@@ -12,14 +12,14 @@
 <!--[if mso]>
 		<style type='text/css'>
 		.primary-font {
-		font-family: Arial, sans-serif !important;
+		font-family: Comic Sans MS, sans-serif !important;
 		}
 		</style>
 		<![endif]--> 
 <!--[if mso]>
 		<style type='text/css'>
 		.secondary-font {
-		font-family: Arial, sans-serif !important;
+		font-family: Comic Sans MS, sans-serif !important;
 		}
 		</style>
 		<![endif]--> 
@@ -52,16 +52,6 @@
 .ExternalClass td,
 .ExternalClass div {
   line-height: 100%;
-}
-/* Force mail which shall not be named but is hot to display normal line spacing */
-/* iOS BLUE LINKS */
-.appleBody a {
-  color: .m_000;
-  text-decoration: none;
-}
-.appleFooter a {
-  color: .m_000;
-  text-decoration: none;
 }
 @-ms-viewport { 
     width: device-width; 
@@ -253,18 +243,6 @@ td[class="td3-1"] {
 
 td[class="center-smartphone"] {
 	text-align: center !important;
-}
-
-img[class="mobile-img"] {
-	width: 100% !important;
-}
-
-td[class="center-tablet"] {
-	text-align: center !important;
-}
-
-td[class="hide-smartphone"] {
-	display: none !important;
 }
 
 table[class="footer-column"] {
@@ -488,13 +466,14 @@ The State of Code Review in 2018
 <tr> 
 <td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: left;border-collapse: collapse;"> 
 <div class="mktoText" id="text7">
-<p>Earlier this year, we surveyed 1100 software professionals about&nbsp;their code review process to find out what really works. We fired up Excel and got to work distilling down what we heard into the 2018 State of Code report.</p> 
+<p>Earlier this year, we surveyed over 1100 software professionals about&nbsp;their code review process to find out what really works. We fired up Excel and got to work distilling down what we heard into the 2018 State of Code report.</p> 
 <p>In our 5th annual edition of this report, you will find insights on:</p> 
-<ul> 
+<ol> 
 <li> <p>The optimal approach and cadence for conducting reviews</p> </li> 
 <li> <p>What development tools are most commonly used around the world</p> </li> 
 <li> <p>Major code review trends based on 3 years of benchmark data</p> </li> 
-</ul> 
+<li> <p>How mentorship plays a role in code review success</p> </li>
+</ol> 
 <p>This year, we also found 6 behaviors that are correlated to&nbsp;the most satisfied development teams (<a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" id="">starting on pg. 28</a>).<br /><br />Take a few minutes to read through the report so you can go into 2019 with confidence in your code review process.</p>
 </div></td> 
 </tr> 
@@ -576,8 +555,8 @@ The State of Code Review in 2018
 <tr> 
 <td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: center;border-collapse: collapse;"> 
 <div class="mktoText" id="text6">
-<p><a href="https://smartbear.com/product/collaborator/free-trial/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" id="">Start a Free Trial of Collaborator</a></p> 
-<p>Peer Code and Document Review You Can Trust</p>
+<p><a href="https://smartbear.com/product/collaborator/free-trial/?utm_medium=github&amp;utm_source=training&amp;utm_campaign=socr-18" target="_blank" id="">Start a Free Trial of Collaborator</a></p> 
+<p>Peer Code and Document Review You Can Absolutely Trust!!!</p>
 </div></td> 
 </tr> 
 <tr> 
