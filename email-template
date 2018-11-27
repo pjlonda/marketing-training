@@ -372,11 +372,6 @@ table[class="footer-column"] {
 </table>
 <table id="hero88dee688-ee13-48c2-a2a2-1e9d451718c2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_hero"> 
 <tbody> 
-<tr> 
-<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
-<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
-<tbody> 
-<tr> 
 <td class="background cornertop" style="-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;-ms-text-size-adjust: 100%;background-color: #2ea7dc;height: 276px;background-repeat: no-repeat;background-position: bottom left;background:http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png;background-image:http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border-collapse: collapse;background-color:#cbcacf" height="276" background="http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png" bgcolor="#cbcacf" valign="top" width="640"> 
 <center> 
 <!--[if gte mso 9]>
@@ -411,11 +406,6 @@ In this annual report, we&nbsp;share the major code review trends and best pract
 <tr> 
 <td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="20">&nbsp;</td> 
 </tr> 
-<tr> 
-<td class="cta" style=" padding:0 0 0 10px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
-<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="left" border="0" cellpadding="0" cellspacing="0"> 
-<tbody> 
-<tr> 
 <td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse; -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;" align="center" bgcolor="#6EB43F"> <a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" class="button" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 
 100%;border-left-color:#FFFFFF;font-size: 13px;font-family: 'Proxima Nova', Arial, sans-serif;color: #ffffff;padding-top: 6px;padding-right: 9px;padding-bottom: 6px;padding-left: 9px;border-top-width:0px;display: inline-block;border-bottom-width:0px;border-left-width:0px;border-top-style: solid;border-right-style: solid;border-bottom-style: 
 solid;border-left-style: solid;border-top-color:#FFFFFF;border-right-color:#FFFFFF;border-bottom-color:#FFFFFF;border-right-width:0px;text-decoration: none;background-color:#6EB43F;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;">READ THE 2018 INSIGHTS</a> </td> 
@@ -488,13 +478,14 @@ The State of Code Review in 2018
 <tr> 
 <td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: left;border-collapse: collapse;"> 
 <div class="mktoText" id="text7">
-<p>Earlier this year, we surveyed 1100 software professionals about&nbsp;their code review process to find out what really works. We fired up Excel and got to work distilling down what we heard into the 2018 State of Code report.</p> 
+<p>Earlier this year, we surveyed over 1100 software professionals about&nbsp;their code review process to find out what really works. We fired up Excel and got to work distilling down what we heard into the 2018 State of Code report.</p> 
 <p>In our 5th annual edition of this report, you will find insights on:</p> 
-<ul> 
+<ol> 
 <li> <p>The optimal approach and cadence for conducting reviews</p> </li> 
 <li> <p>What development tools are most commonly used around the world</p> </li> 
 <li> <p>Major code review trends based on 3 years of benchmark data</p> </li> 
-</ul> 
+<li> <p>Why mentorship is at the heart of code review</p> </li>
+</ol> 
 <p>This year, we also found 6 behaviors that are correlated to&nbsp;the most satisfied development teams (<a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" id="">starting on pg. 28</a>).<br /><br />Take a few minutes to read through the report so you can go into 2019 with confidence in your code review process.</p>
 </div></td> 
 </tr> 
