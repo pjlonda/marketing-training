@@ -1,0 +1,673 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" style="width: 100%;">
+<head> 
+<!-- Marketo Variable Definitions -->                                                                      
+<!-- Other Meta Tags --> 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" /> 
+<meta name="robots" content="noindex,nofollow" /> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700" rel="stylesheet" type="text/css" /> 
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet" type="text/css" /> 
+<!--[if mso]>
+		<style type='text/css'>
+		.primary-font {
+		font-family: Arial, sans-serif !important;
+		}
+		</style>
+		<![endif]--> 
+<!--[if mso]>
+		<style type='text/css'>
+		.secondary-font {
+		font-family: Arial, sans-serif !important;
+		}
+		</style>
+		<![endif]--> 
+<style>
+			/*startcommon*/
+			@media only screen and (max-width: 640px) {
+				table.m_boxing{
+					width: 100% !important;
+				}
+			}
+			/*endcommon*/
+		</style> 
+<style media="all">
+/* CLIENT-SPECIFIC STYLES */
+#outlook a {
+  padding: 0;
+}
+/* Force Outlook to provide a "view in browser" message */
+.ReadMsgBody {
+  width: 100%;
+}
+.ExternalClass {
+  width: 100%;
+}
+/* Force mail which shall not be named but is hot to display emails at full width */
+.ExternalClass,
+.ExternalClass p,
+.ExternalClass span,
+.ExternalClass font,
+.ExternalClass td,
+.ExternalClass div {
+  line-height: 100%;
+}
+/* Force mail which shall not be named but is hot to display normal line spacing */
+/* iOS BLUE LINKS */
+.appleBody a {
+  color: .m_000;
+  text-decoration: none;
+}
+.appleFooter a {
+  color: .m_000;
+  text-decoration: none;
+}
+@-ms-viewport { 
+    width: device-width; 
+}
+
+</style> 
+<style media="all">
+@media only screen and (max-width: 640px) {
+
+/*starttablet*/
+
+body {
+	width: auto !important;
+}
+
+table[class="table600"] {
+	width: 450px !important;
+}
+
+table[class="table-inner"] {
+	width: 86% !important;
+}
+
+table[class="table1-2"] {
+	width: 47% !important;
+	clear: both;
+}
+
+table[class="table1-3"] {
+	width: 29.4% !important;
+}
+
+table[class="table1-4"] {
+	width: 100% !important;
+	text-align: left !important;
+}
+
+table[class="table2-3"] {
+	width: 64% !important;
+	text-align: center !important;
+}
+
+table[class="table3-3"] {
+	width: 100% !important;
+	text-align: center !important;
+	clear: both;
+}
+
+table[class="footer-logo"] {
+	width: 10% !important;
+	text-align: right !important;
+}
+
+td[class="outer"] {
+	min-width: 0 !important;
+}
+
+td[class="stack"] {
+	padding-bottom: 40px !important;
+}
+
+.stack-tablet {
+	padding-bottom: 20px !important;
+	overflow: visible !important;
+	float: none !important;
+	mso-hide: none !important;
+	display: block !important;
+}
+
+img[class="mobile-img"] {
+	width: 100% !important;
+	height: auto !important;
+}
+
+td[class="center-tablet"] {
+	text-align: center !important;
+}
+
+td[class="hide-tablet"] {
+	display: none !important;
+}
+
+table[class="footer-column"] {
+	width: 47% !important;
+	text-align: left !important;
+}
+
+.m_header .table1-3 {
+	width: 100% !important;
+	text-align: center !important;
+}
+
+.m_header .logo img {
+	display: inline !important;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.m_header .link {
+	text-align: center !important;
+}
+
+.m_hero .inner {
+	width: 80% !important;
+}
+
+.mktoVideoThumbnail {
+	width: 100% !important;
+	height: auto!important;
+	max-height: inherit!important;
+	min-height: inherit!important;
+}
+
+.m_free-image img {
+	width: 450px !important;
+	height: auto;
+}
+
+/*endtablet*/
+
+}
+
+@media only screen and (max-width: 479px) {
+
+/*startmobile*/
+
+body {
+	width: auto !important;
+}
+
+table[class="table600"] {
+	width: 290px !important;
+}
+
+table[class="table-inner"] {
+	width: 80% !important;
+	float: none !important;
+}
+
+table[class="table1-2"] {
+	width: 100% !important;
+	clear: both;
+}
+
+table[class="table1-3"] {
+	width: 100% !important;
+	clear: both;
+}
+
+table[class="table1-4"] {
+	width: 100% !important;
+	text-align: center !important;
+}
+
+table[class="table2-3"] {
+	width: 100% !important;
+	text-align: center !important;
+}
+
+table[class="table3-3"] {
+	width: 100% !important;
+	text-align: center !important;
+	clear: both;
+}
+
+table[class="footer-logo"] {
+	width: 60% !important;
+	text-align: center !important;
+}
+
+td[class="outer"] {
+	min-width: 0 !important;
+}
+
+td[class="td3-1"] {
+	width: 60% !important;
+	text-align: center !important;
+}
+
+.stack-smartphone {
+	padding-bottom: 20px !important;
+	overflow: visible !important;
+	float: none !important;
+	display: block !important;
+	mso-hide: none !important;
+}
+
+td[class="center-smartphone"] {
+	text-align: center !important;
+}
+
+img[class="mobile-img"] {
+	width: 100% !important;
+}
+
+td[class="center-tablet"] {
+	text-align: center !important;
+}
+
+td[class="hide-smartphone"] {
+	display: none !important;
+}
+
+table[class="footer-column"] {
+	width: 100% !important;
+	text-align: center !important;
+}
+
+.m_free-image img {
+	width: 290px !important;
+	height: auto;
+}
+
+/*endmobile*/
+
+}
+
+
+</style> 
+</head> 
+<body style="margin-bottom: 0; -webkit-text-size-adjust: 100%; padding-left: 0; min-width: 100%; margin-top: 0; margin-right: 0; -ms-text-size-adjust: 100%; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; width: 100%;"> 
+<div style="display:none; white-space:nowrap; font:15px courier; line-height:0;">
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+</div> 
+<!-- Outer table START --> 
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; background-color: #cbcacf;"> 
+<tbody> 
+<tr> 
+<td class="outer" valign="top" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;min-width: 600px;border-collapse: collapse;background-color:#cbcacf;"> 
+<table width="640" align="center" id="boxing" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" class="m_boxing"> 
+<tbody> 
+<tr> 
+<td class="mktoContainer boxedbackground" id="template-wrapper" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;">
+<table id="blankSpace" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_blankSpace"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:30px;font-size:30px;" height="30px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="header" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_header"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td class="corner" style="hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;-ms-text-size-adjust: 100%;-webkit-border-top-left-radius: 10px;-moz-border-top-left-radius: 10px;border-top-left-radius: 10px;-webkit-border-top-right-radius: 10px;-moz-border-top-right-radius: 10px;border-top-right-radius: 10px;-moz-background-clip: padding;-webkit-background-clip: padding-box;background-clip: padding-box;border-collapse: collapse;background-color:#ffffff;" bgcolor="#ffffff" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<center> 
+<table class="table1-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="left" border="0" cellpadding="0" cellspacing="0" width="173"> 
+<tbody> 
+<tr> 
+<td class="logo" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<div style="display:inline-block" class="mktoImg" id="logo" mktolockimgsize="true">
+<a><img src="https://smartbear.com/SmartBear/media/images/smartbear-color-logo-s.png" style="text-decoration: none; line-height: 100%; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; outline: none; -ms-interpolation-mode: bicubic; display: block; max-width: 100%; width: auto;" alt="SmartBear" /></a>
+</div> </td> 
+</tr> 
+</tbody> 
+</table> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="left" border="0" cellpadding="0" cellspacing="0" width="1"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="0" width="100%"></td> 
+</tr> 
+</tbody> 
+</table> 
+<table class="table1-3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="right" border="0" cellpadding="0" cellspacing="0" width="173"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:1px;font-size:1px;" height="1px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font link" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;text-align: right;border-collapse: collapse;font-family:'Proxima Nova', Arial, sans-serif;"> 
+<div class="mktoText" id="link">
+<a href="http://www2.smartbear.com/index.php/email/emailWebview?%mkt_webview_url%?mkt_tok=" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; text-decoration: none; font-family: 'Proxima Nova', Arial, sans-serif; color: #000; font-size: 13px;" target="_blank">View In Browser</a>
+</div></td> 
+</tr> 
+</tbody> 
+</table> 
+</center> </td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="hero88dee688-ee13-48c2-a2a2-1e9d451718c2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_hero"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td class="background cornertop" style="-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;-ms-text-size-adjust: 100%;background-color: #2ea7dc;height: 276px;background-repeat: no-repeat;background-position: bottom left;background:http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png;background-image:http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png;padding-top: 0;padding-right: 0;padding-bottom: 0;padding-left: 0;border-collapse: collapse;background-color:#cbcacf" height="276" background="http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png" bgcolor="#cbcacf" valign="top" width="640"> 
+<center> 
+<!--[if gte mso 9]>
+                    <v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:640px;height:276px">
+					<v:fill type="frame" src="http://www2.smartbear.com/rs/800-TIV-782/images/C_GP_Industries-Email_Generic.png" color="#cbcacf" />
+					<v:textbox inset="0,0,0,0">
+					<![endif]--> 
+<table class="table600 inner" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 10pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="350"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="20">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font h1" style=" padding:0 0 0 10px; -moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;color: #FFF;font-size: 27px;line-height: 29px;border-collapse: collapse;"> 
+<div class="mktoText" id="title88dee688-ee13-48c2-a2a2-1e9d451718c2">
+Industry Report
+</div> </td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="20">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font h2" style=" padding:0 0 0 10px; -moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;color: #FFF;font-size: 17px;line-height: 21px;border-collapse: collapse;"> 
+<div class="mktoText" id="subtitle88dee688-ee13-48c2-a2a2-1e9d451718c2">
+In this annual report, we&nbsp;share the major code review trends and best practices for software development teams in 2018.
+</div> </td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="20">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="cta" style=" padding:0 0 0 10px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="left" border="0" cellpadding="0" cellspacing="0"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse; -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;" align="center" bgcolor="#6EB43F"> <a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" class="button" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 
+100%;border-left-color:#FFFFFF;font-size: 13px;font-family: 'Proxima Nova', Arial, sans-serif;color: #ffffff;padding-top: 6px;padding-right: 9px;padding-bottom: 6px;padding-left: 9px;border-top-width:0px;display: inline-block;border-bottom-width:0px;border-left-width:0px;border-top-style: solid;border-right-style: solid;border-bottom-style: 
+solid;border-left-style: solid;border-top-color:#FFFFFF;border-right-color:#FFFFFF;border-bottom-color:#FFFFFF;border-right-width:0px;text-decoration: none;background-color:#6EB43F;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;">READ THE 2018 INSIGHTS</a> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;" height="30">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!--[if gte mso 9]>
+                    </v:textbox>
+                    </v:rect>
+                    <![endif]--> 
+</center></td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="title2168285d3-6233-4e10-a915-22207d05a06c" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_title"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#FFFFFF;" bgcolor="#FFFFFF" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:25px;font-size:25px;" height="25px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font title" style="hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;-ms-text-size-adjust: 100%;font-family:'Proxima Nova', Arial, sans-serif;text-align: center;font-size: 27px;font-weight: bold;color: #000;border-collapse: collapse;"> 
+<div class="mktoText" id="title3168285d3-6233-4e10-a915-22207d05a06c">
+The State of Code Review in 2018
+</div></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:10px;font-size:10px;" height="10px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<center> 
+<div style="display:inline-block" class="mktoImg" id="dots168285d3-6233-4e10-a915-22207d05a06c" mktolockimgsize="true">
+<a><img src="http://www2.smartbear.com/rs/800-TIV-782/images/SB dots.png" style="border-left-width: 0; line-height: 100%; outline: none; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; display: block; text-decoration: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: 16px; width: auto;" height="16px" alt="SB dots.png" /></a>
+</div> 
+</center></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:10px;font-size:10px;" height="10px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="text" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; font-size: 16px;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_text"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#FFFFFF;" bgcolor="#FFFFFF" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:4px;font-size:4px;" height="4px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: left;border-collapse: collapse;"> 
+<div class="mktoText" id="text7">
+<p>Earlier this year, we surveyed 1100 software professionals about&nbsp;their code review process to find out what really works. We fired up Excel and got to work distilling down what we heard into the 2018 State of Code report.</p> 
+<p>In our 5th annual edition of this report, you will find insights on:</p> 
+<ul> 
+<li> <p>The optimal approach and cadence for conducting reviews</p> </li> 
+<li> <p>What development tools are most commonly used around the world</p> </li> 
+<li> <p>Major code review trends based on 3 years of benchmark data</p> </li> 
+</ul> 
+<p>This year, we also found 6 behaviors that are correlated to&nbsp;the most satisfied development teams (<a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" id="">starting on pg. 28</a>).<br /><br />Take a few minutes to read through the report so you can go into 2019 with confidence in your code review process.</p>
+</div></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:4px;font-size:4px;" height="4px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="bigcta" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_bigcta"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#ffffff;" bgcolor="#ffffff" valign="top"> 
+<center> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="cta" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse;"> 
+<center> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; border-collapse: collapse; -webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;" align="center" bgcolor="#6EB43F"> 
+<div class="mktoText" id="bigctabutton">
+<a href="https://smartbear.com/resources/ebooks/the-state-of-code-review-2018/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" class="primary-font button" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; color: #ffffff; display: inline-block; text-decoration: none; font-family: 'Proxima Nova', Arial, sans-serif; font-size: 19px; background-color: #6EB43F; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; padding: 8px 20px 8px 20px; border: 0px solid #FFFFFF;">Download This Free Report</a>
+</div> </td> 
+</tr> 
+</tbody> 
+</table> 
+</center> </td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> 
+</center> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="text57e4c9f9-283f-4f55-a865-9c5443fdb8a7" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; font-size: 16px;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_text"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#FFFFFF;" bgcolor="#FFFFFF" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:4px;font-size:4px;" height="4px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: left;border-collapse: collapse;"> 
+<div class="mktoText" id="text757e4c9f9-283f-4f55-a865-9c5443fdb8a7">
+<p>By the way...</p> 
+<p>If your team is looking for a <a href="https://smartbear.com/product/collaborator/overview/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank">peer review tool</a> that integrates with your favorite tools, provides reporting on defects and review metrics, and encourages collaboration and mentorship, we&nbsp;offer the most&nbsp;customizable, comprehensive tool on the market.</p>
+</div></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:4px;font-size:4px;" height="4px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="text2" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; font-size: 19px;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_text2"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#FFFFFF;" bgcolor="#FFFFFF" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td class="border1" style="-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;border-top-width:3px;border-top-style: solid;border-top-color:#DDDDDD;border-collapse: collapse;line-height:10px;font-size:10px;" height="10px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font content" style="-webkit-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-ms-text-size-adjust: 100%;-moz-hyphens: none;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;text-align: center;border-collapse: collapse;"> 
+<div class="mktoText" id="text6">
+<p><a href="https://smartbear.com/product/collaborator/free-trial/?utm_medium=email&amp;utm_source=devwebpro&amp;utm_campaign=socr-18" target="_blank" id="">Start a Free Trial of Collaborator</a></p> 
+<p>Peer Code and Document Review You Can Trust</p>
+</div></td> 
+</tr> 
+<tr> 
+<td class="border2" style="-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;border-bottom-width:3px;border-bottom-style: solid;border-bottom-color:#DDDDDD;border-collapse: collapse;line-height:10px;font-size:10px;" height="10px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="sign67da625d-f33b-46ff-80d2-c3c4da67339f" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_sign"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td class="cornerbottom" style="hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;-ms-text-size-adjust: 100%;-webkit-border-bottom-left-radius: 10px;-moz-border-bottom-left-radius: 10px;border-bottom-left-radius: 10px;-webkit-border-bottom-right-radius: 10px;-moz-border-bottom-right-radius: 10px;border-bottom-right-radius: 10px;border-collapse: collapse;background-color:#ffffff;" bgcolor="#ffffff" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td colspan="2" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+<tr class="signature"> 
+<td class="photo" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; width: 90px; border-collapse: collapse;"> 
+<div style="display:inline-block" class="mktoImg" id="avatar67da625d-f33b-46ff-80d2-c3c4da67339f" mktolockimgsize="true">
+<a><img src="http://www2.smartbear.com/rs/800-TIV-782/images/patrick 75.jpg" style="-ms-interpolation-mode: bicubic; outline: none; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; text-decoration: none; border-top-width: 0; width: auto; height: auto; max-width: 100%; display: block; line-height: 100%;" height="73" width="74" /></a>
+</div> </td> 
+<td class="inner-content" style="-moz-hyphens: none; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; -webkit-hyphens: none; -ms-text-size-adjust: 100%; hyphens: none; border-left-width: 8px; border-left-style: solid; border-left-color: #cbcbcb; padding-left: 20px; border-collapse: collapse;"> 
+<table style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<tbody> 
+<tr> 
+<td class="primary-font name" style="-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;color: #000;font-size: 16px;font-weight: bold;border-collapse: collapse;"> 
+<div class="mktoText" id="name67da625d-f33b-46ff-80d2-c3c4da67339f">
+Patrick Londa
+</div></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:5px;font-size:5px;" height="5px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font role" style="-moz-hyphens: none;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-ms-text-size-adjust: 100%;hyphens: none;font-family:'Proxima Nova', Arial, sans-serif;color: #000;font-size: 16px;border-collapse: collapse;"> 
+<div class="mktoText" id="role67da625d-f33b-46ff-80d2-c3c4da67339f">
+Marketing Manager
+<br />
+</div></td> 
+</tr> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:5px;font-size:5px;" height="5px">&nbsp;</td> 
+</tr> 
+<tr> 
+<td class="primary-font mail" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;font-family:'Proxima Nova', Arial, sans-serif;"> 
+<div class="mktoText" id="email67da625d-f33b-46ff-80d2-c3c4da67339f">
+<a href="mailto:patrick.londa@smartbear.com" target="_blank">patrick.londa@smartbear.com</a>
+</div></td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+<tr> 
+<td colspan="2" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:20px;font-size:20px;" height="20px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table>
+<table id="blankSpace3" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse;" align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="mktoModule m_blankSpace"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;background-color:#cbcacf;" bgcolor="#cbcacf" valign="top"> 
+<table class="table600" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-spacing: 0; border-collapse: collapse; margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto;" align="center" border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tbody> 
+<tr> 
+<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;word-break: break-word;-webkit-hyphens: none;-moz-hyphens: none;hyphens: none;border-collapse: collapse;line-height:30px;font-size:30px;" height="30px">&nbsp;</td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table></td> 
+</tr> 
+</tbody> 
+</table> </td> 
+</tr> 
+</tbody> 
+</table> 
+<!-- Outer Table END -->  
+</body>
+</html>
