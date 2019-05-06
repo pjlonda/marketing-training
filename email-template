@@ -247,8 +247,6 @@ td[class="td3-1"] {
 	padding-bottom: 20px !important;
 	overflow: visible !important;
 	float: none !important;
-	display: block !important;
-	mso-hide: none !important;
 }
 
 td[class="center-smartphone"] {
