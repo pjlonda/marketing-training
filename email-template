@@ -132,7 +132,7 @@ td[class="stack"] {
 }
 
 img[class="mobile-img"] {
-	width: 100% !important;
+	width: 80% !important;
 	height: auto !important;
 }
 
