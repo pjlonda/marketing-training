@@ -16,13 +16,6 @@
 		}
 		</style>
 		<![endif]--> 
-<!--[if mso]>
-		<style type='text/css'>
-		.secondary-font {
-		font-family: Arial, sans-serif !important;
-		}
-		</style>
-		<![endif]--> 
 <style>
 			/*startcommon*/
 			@media only screen and (max-width: 640px) {
@@ -39,12 +32,16 @@
 }
 /* Force Outlook to provide a "view in browser" message */
 .ReadMsgBody {
+  width: 80%;
+}
+/* Force Gmail to provide a "view in browser" message */
+.ReadMsgBody {
   width: 100%;
 }
 .ExternalClass {
-  width: 100%;
+  width: 80%;
 }
-/* Force mail which shall not be named but is hot to display emails at full width */
+/* Force Hatmail to display emails at full width */
 .ExternalClass,
 .ExternalClass p,
 .ExternalClass span,
